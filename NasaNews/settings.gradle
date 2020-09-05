@@ -1,0 +1,2 @@
+rootProject.name='Nasa News'
+include ':app'

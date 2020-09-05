@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magic Life Counter</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="heal">HEAL</string>
+    <string name="damage">DAMAGE</string>
+</resources>

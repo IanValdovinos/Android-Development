@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Samuel Valdovinos</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hello! My name is Ian Valdovinos\n\n
+        I am learning how to develop applications.\n\n
+        My favorite color is blue.\n\n
+        I love dogs but i don\'t have one.\n\n
+        I listen to many types of music but my favorite is Latin music.\n\n
+        I have a job at Kroger, I have been working there for almost one year and I sort of like it.\n\n
+        I\'m about to go to college, I\'m not sure where I am going to go but hopefully I go to Michigan State.\n\n
+        I love coding, finance and social relationships. I\'m trying to be proficient in these fields.\n\n
+        I also love yogurt!\n\n
+        My favorite food is pizza!\n\n
+
+    </string>
+    <string name="AndroidImage">Android Image</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>

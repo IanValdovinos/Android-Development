@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Doors</string>
+    <string name="door_one">Door One</string>
+    <string name="door_two">Door Two</string>
+    <string name="select_button">SELECT</string>
+    <string name="instructions">Select a door</string>
+    <string name="point_counter">Correct answers: 0</string>
+    <string name="attempt_counter">Attempts: 0/10</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="game_won">You WON! Congratulations</string>
+</resources>

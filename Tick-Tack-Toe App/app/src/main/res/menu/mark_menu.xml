@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mnu_X"
+            android:checked="true"
+            android:title='Select "X" as mark' />
+        <item
+            android:id="@+id/mnu_O"
+            android:title='Select "O" as mark' />
+        <item
+            android:id="@+id/mnu_twoPlayer"
+            android:title="Two Player Game" />
+    </group>
+</menu>

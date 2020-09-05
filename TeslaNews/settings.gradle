@@ -1,0 +1,2 @@
+rootProject.name='Tesla News'
+include ':app'
